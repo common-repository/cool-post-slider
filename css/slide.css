@@ -1,0 +1,10 @@
+.act-post-slide{
+	position:relative;	
+	min-height:200px;
+}
+
+.act-post-slide li{
+	display:none;	
+	position: absolute;
+    top: 0;
+}

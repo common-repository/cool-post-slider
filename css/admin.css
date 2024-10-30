@@ -1,0 +1,63 @@
+#toplevel_page_post-slider-ri_post .wp-menu-image img {
+	height: 16px;
+}
+
+.ripsladmin {
+		
+}
+.ripsladmin p{
+	clear:both;
+}
+.ripsladmin hr{ clear:both;}
+.ripsladmin p b{
+	width: 100px;
+	float: left;
+	line-height: 28px;
+	vertical-align: middle;
+}
+.ripsladmin p span{ float:left; }
+.template {
+	float: left;
+	width: 100%;
+}
+.ripsladmin input[type=number]{ width: 60px; }
+.ripsladmin input[type=submit]{ margin:10px 0;  }
+
+ul#ripsl_template1{ list-style:none; }
+ul#ripsl_template1 li h2{
+    font-size: 18px;
+}
+ul#ripsl_template1 li h2 a{
+	text-decoration:none;
+}
+
+ul#ripsl_template2{ list-style:none; }
+ul#ripsl_template2 li {
+    width: 50%;
+    min-width: 320px;
+    float: left;
+    margin: 0;
+    padding: 0;
+}
+
+ul#ripsl_template2 span {
+    width: 30%;
+    float: left;
+    margin-right: 2%;
+}
+ul#ripsl_template2 li span img {
+    max-width: 100%;
+}
+ul#ripsl_template2 .postdesri {
+    width: 65%;
+    float: left;
+}
+ul#ripsl_template2 li h2{
+    font-size: 18px;
+}
+ul#ripsl_template2 li h2 a{
+	text-decoration:none;
+}
+ul#ripsl_template2 .postdesri{
+	
+}
